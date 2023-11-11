@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 name = 'pythonpackage'
-version = '0.0.1'
+version = '0.1'
 
 with open('README.md' ,'r') as f:
     long_description = f.read().strip()
@@ -20,5 +20,3 @@ setup(
     install_requires=[],
     python_requires='>=3.7',
     )
-    
-
