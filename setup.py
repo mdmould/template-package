@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
-name = 'pythonpackage'
-version = '0.1'
+name = 'template-package'
+version = '0.0.1'
 
 with open('README.md' ,'r') as f:
     long_description = f.read().strip()
@@ -18,5 +18,5 @@ setup(
     license='MIT',
     packages=find_packages(),
     install_requires=[],
-    python_requires='>=3.7',
+    python_requires='>=3.9',
     )
