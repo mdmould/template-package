@@ -1,1 +1,1 @@
-# template-package
+# template-python

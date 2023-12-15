@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-name = 'template-package'
+name = 'template-python'
 version = '0.0.1'
 
 with open('README.md' ,'r') as f:
